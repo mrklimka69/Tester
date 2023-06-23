@@ -12,7 +12,7 @@ out += "Прошло лет: ";
 out += parseInt(years);
 out += "<br>";
 
-let months = diff / (86400000 * 31);
+let months = diff / (86400000 * 30.4167);
 out += "Прошло месяцев: ";
 out += parseInt(months);
 out += "<br>";
