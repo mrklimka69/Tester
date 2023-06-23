@@ -6,4 +6,8 @@
 .content {
     font-weight: 700;
     font-size: 25px;
+
+    display: flex;
+
+    text-align: center;
 }
